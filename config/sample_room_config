@@ -1,0 +1,9 @@
+element_rooms_configs:
+  - id: "team1_room"
+    room_id: "!roomid1:example.com"
+    access_token: "paste_access_token_here"
+    bearer_token: "bearer_token_to_call_this_api_with_this_room"
+  - id: "team2_room"
+    room_id: "!roomid2:example.com"
+    access_token: "paste_access_token_here"
+    bearer_token: "bearer_token_to_call_this_api_with_this_room"

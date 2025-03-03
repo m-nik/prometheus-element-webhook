@@ -1,0 +1,3 @@
+venv/
+config/*.y*ml
+__pycache__/
